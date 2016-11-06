@@ -22,30 +22,38 @@
 \providecommand{\BIBdecl}{\relax}
 \BIBdecl
 
-\bibitem[Mangla et~al.(2014{\natexlab{a}})Mangla, Sallese, Sampedro, Gamiz, and
-  Enz]{Mangla2014d}
-A.~Mangla, J.~Sallese, C.~Sampedro, F.~Gamiz, and C.~Enz, ``{Modeling the
-  channel charge and potential in quasi-ballistic nanoscale double-gate
-  MOSFETs},'' in \emph{MOS-AK}, London, 2014.
+%\bibitem[Mangla et~al.(2014{\natexlab{a}})Mangla, Sallese, Sampedro, Gamiz, and
+ % Enz]{Mangla2014d}
+%A.~Mangla, J.~Sallese, C.~Sampedro, F.~Gamiz, and C.~Enz, ``{Modeling the
+  %channel charge and potential in quasi-ballistic nanoscale double-gate
+  %MOSFETs},'' in \emph{MOS-AK}, London, 2014.
 
-\bibitem[Mangla et~al.(2014{\natexlab{b}})Mangla, Sallese, Sampedro, Gamiz, and
-  Enz]{Mangla2014b}
-------, ``{Modeling the channel charge and potential in quasi-ballistic
-  nanoscale double-gate MOSFETs},'' \emph{IEEE Trans. Electron Devices}, vol.
-  Submitted, 2014.
+%\bibitem[Mangla et~al.(2014{\natexlab{b}})Mangla, Sallese, Sampedro, Gamiz, and
+ % Enz]{Mangla2014b}
+%------, ``{Modeling the channel charge and potential in quasi-ballistic
+  %nanoscale double-gate MOSFETs},'' \emph{IEEE Trans. Electron Devices}, vol.
+  %Submitted, 2014.
 
-\bibitem[Mangla et~al.(2014{\natexlab{c}})Mangla, Sallese, Sampedro, Gamiz, and
-  Enz]{Mangla2014c}
-------, ``{Study of Electrostatics in Ballistic Double-Gate MOSFETs using
-  Partial Gate Geometry},'' \emph{Solid. State. Electron.}, vol. Submitted,
-  2014.
+%\bibitem[Mangla et~al.(2014{\natexlab{c}})Mangla, Sallese, Sampedro, Gamiz, and
+  %Enz]{Mangla2014c}
+%------, ``{Study of Electrostatics in Ballistic Double-Gate MOSFETs using
+  %Partial Gate Geometry},'' \emph{Solid. State. Electron.}, vol. Submitted,
+ % 2014.
 
-\bibitem[Mangla et~al.(2014{\natexlab{d}})Mangla, Sallese, Sampedro, Gamiz, and
-  Enz]{Mangla2014a}
-\BIBentryALTinterwordspacing
-------, ``{Role of the gate in ballistic nanowire SOI MOSFETs},'' in
-  \emph{EUROSOI 2014}, Tarragona, 2014. [Online]. Available:
-  \url{http://tarragona2014.eurosoi.org/}
-\BIBentrySTDinterwordspacing
+%\bibitem[Mangla et~al.(2014{\natexlab{d}})Mangla, Sallese, Sampedro, Gamiz, and
+ % Enz]{Mangla2014a}
+%\BIBentryALTinterwordspacing
+%------, ``{Role of the gate in ballistic nanowire SOI MOSFETs},'' in
+  %\emph{EUROSOI 2014}, Tarragona, 2014. [Online]. Available:
+  %\url{http://tarragona2014.eurosoi.org/}
+%\BIBentrySTDinterwordspacing
+%%
+%\bibitem[Ban Ki-Moon ( 2016{\natexlab{f}}) ]{Ban16}
+%------, ``{UN assembly: global leaders commit to act on antimicrobial resistance},'' \emph{UN assembly}, NY City, 29.096.2016
 
+\bibitem{einstein} 
+Albert Einstein. 
+\textit{Zur Elektrodynamik bewegter K{\"o}rper}. (German) 
+[\textit{On the electrodynamics of moving bodies}]. 
+Annalen der Physik, 322(10):891–921, 1905.
 \end{thebibliography}
